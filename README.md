@@ -1,2 +1,2 @@
 # manipulatestrings-coercedatatypes
-"art vandelay".upper()
+'art vandelay'.upper()
